@@ -86,11 +86,13 @@ section{
   width: 50%;
 }
 p{
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
-  color: rgb(221, 192, 192);
+  color: rgb(165, 218, 253);
 }
 #list{
   text-align: 10%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 footer{
   text-align: center;
