@@ -13,11 +13,17 @@ body {
   left: 15px;
   position: fixed;
 }
+.logos1:hover{
+  width: 4%;
+}
 .logos2{
   width: 3%;
   top: 280px;
   left: 15px;
   position: fixed;
+}
+.logos2:hover{
+  width: 4%;
 }
 .logos3{
   width: 3%;
@@ -25,13 +31,18 @@ body {
   left: 15px;
   position: fixed;
 }
+.logos3:hover{
+  width: 4%;
+}
 .logos4{
   width: 3%;
   top: 480px;
   left: 15px;
   position: fixed;
 }
-
+.logos4:hover{
+  width: 4%;
+}
 .wrapper {
   animation: scroll 70s linear infinite;
   background: url("https://images.unsplash.com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80"), #111111;
