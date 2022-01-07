@@ -3,6 +3,34 @@ body {
   margin: 0%;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+#main-body{
+  width: 90%;
+  margin: 0 auto;
+}
+.logos1{
+  width: 3%;
+  top: 180px;
+  left: 15px;
+  position: fixed;
+}
+.logos2{
+  width: 3%;
+  top: 280px;
+  left: 15px;
+  position: fixed;
+}
+.logos3{
+  width: 3%;
+  top: 380px;
+  left: 15px;
+  position: fixed;
+}
+.logos4{
+  width: 3%;
+  top: 480px;
+  left: 15px;
+  position: fixed;
+}
 
 .wrapper {
   animation: scroll 70s linear infinite;
